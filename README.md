@@ -1,6 +1,6 @@
 # Learning System
 
-## Web application that helps organizing and keep information about students and courses. 
+## Web application that helps organizing and keep information about students and courses.
 
 ### Models
 
@@ -49,3 +49,10 @@
 •	Trainer can assess a student for a course only when the course is over.
 
 •	Blog authors can publish articles in the blog. Once published the article cannot be modified.
+
+
+# Web
++ https://github.com/gtechsltn/Learning-System/
+
+# Mobile
++ https://github.com/gtechsltn/educats-xamarin/
