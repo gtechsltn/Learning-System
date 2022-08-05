@@ -2,7 +2,7 @@
 
 ## Web application that helps organizing and keep information about students and courses. 
 
--> Models
+### Models
 
 •	Students – have username, name, email, password and birthdate, list of courses.
 
@@ -10,7 +10,7 @@
 
 •	Articles – have title, content, publish date and author.
 
--> Roles
+### Roles
 
 •	Guest (unregistered users) – can view all courses and their details
 
@@ -22,13 +22,13 @@
 
 •	Administrator – can create new courses or edit existing ones and set roles to all users.
 
--> Areas
+### Areas
 
 •	Admin – accessible only by administrators where they can create new courses or set roles to users.
 
 •	Blog – accessible by all registered users in any role. Blog authors can publish new articles.
 
--> Features
+### Features
 
 •	Home page should show a list of all courses
 
